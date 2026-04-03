@@ -1,7 +1,5 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
-> **Support this project* All donations go towards your chosen charity. All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name can be added to the official donor list for this project on GitHub. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected! :). As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
-
 # OpenBullet
 OpenBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for **scraping** and **parsing data**, automated **pentesting**, unit testing through **selenium** and much more.
 
@@ -32,3 +30,7 @@ I want to thank all the community for their inputs that shaped OpenBullet into w
 
 # Contact
 I am not on discord / telegram, anyone on there who claims to be me is a fake. If you need to contact me for any reason you can send me an email at ruridev on protonmail. I don't check it very often so be patient please.
+
+## Support This Project
+
+Support this project! All donations go towards your chosen charity. You can pick any charity you'd like, and I will ensure the funds are sent their way. Please note that standard payment processing fees (Ko-fi & PayPal) will be deducted from the total. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof of the donation or to let me know which charity you've selected!
